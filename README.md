@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brice GOUDALO</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://harley755.github.io/portfolio_with_html_css_js/](https://harley755.github.io/portfolio_with_html_css_js/)
 
