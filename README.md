@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Harley755](https://github.com/Harley755)
+- 👨‍💻 All of my projects are available at [https://github.com/Harley755?tab=repositories](https://github.com/Harley755?tab=repositories)
 
 - 📫 How to reach me **bricegoudalo@gmail.com**
 
