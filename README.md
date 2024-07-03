@@ -1,16 +1,42 @@
-<h1 align="center">Hi 👋, I'm Brice GOUDALO</h1>
-<h3 align="center">A passionate full stack developer</h3>
+# 👋 Hi there, I'm Brice GOUDALO!
 
-- 🌱 I’m currently learning **Flutter**
+![GitHub followers](https://img.shields.io/github/followers/Harley755?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/bg_dev2?style=social)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Harley755?tab=repositories](https://github.com/Harley755?tab=repositories)
+Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** and **Mobile Developer** with a knack for creating seamless user experiences. 
 
-- 📫 How to reach me **bricegoudalo@gmail.com**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bg_dev2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bg_dev2" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently working on various full-stack web projects using **Java**, **JavaScript**, **jQuery**, **Laravel**, **PostgreSQL**, and **REST APIs**.
+- 🌱 I’m currently learning **Spring Boot 3** and advancing my **Flutter** skills.
+- 👯 I’m looking to collaborate on exciting **Flutter** and **Full Stack** projects.
+- 📫 How to reach me: bricegoudalo@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🔧 Technologies & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Brice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harley755&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harley755&layout=compact&theme=radical)
+
+## 💻 Some of my Projects
+
+### 🚀 [Project 1](https://github.com/Harley755/project-1)
+Description of project 1.
+
+### 🌟 [Project 2](https://github.com/Harley755/project-2)
+Description of project 2.
+
+## 🌐 Find me around the web
+
+- Twitter: [@bg_dev2](https://twitter.com/bg_dev2)
+- LinkedIn: [Brice GOUDALO](https://www.linkedin.com/in/bricegoudalo)
+- GitHub: [Harley755](https://github.com/Harley755)
