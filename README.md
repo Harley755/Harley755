@@ -28,14 +28,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** and 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harley755&layout=compact&theme=radical)
 
-## 💻 Some of my Projects
-
-### 🚀 [Project 1](https://github.com/Harley755/project-1)
-Description of project 1.
-
-### 🌟 [Project 2](https://github.com/Harley755/project-2)
-Description of project 2.
-
 ## 🌐 Find me around the web
 
 - Twitter: [@bg_dev2](https://twitter.com/bg_dev2)
