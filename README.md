@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** and 
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Spring Boot 3** and advancing my **Flutter** skills.
+- 🌱 I’m currently learning **Spring Boot 3**, **Node Js** and advancing my **Flutter** skills.
 - 👯 I’m looking to collaborate on exciting **Flutter** and **Full Stack** projects.
 - 📫 How to reach me: bricegoudalo@gmail.com
 
